@@ -1,3 +1,2 @@
-README
-
-Language translator from french to english
+# LanguageTranslation
+Translating from French to English 
